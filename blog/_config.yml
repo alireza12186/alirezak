@@ -3,7 +3,7 @@
 #------------------------------------------------------------------------------
 name: علیرضاک
 description: "یک کتابدار که به دنیای کامپیوتر علاقمند است و از علایقش در مورد لینوکس و اینترنت و دنیای نرم‌افزارهای آزاد می‌نویسد"
-production_url: https://alireza12186.github.io/alirezak/blog
+production_url: https://alireza12186.github.io/alirezak/
 baseurl: 'blog'
 BASE_PATH : https://alirezak.ir/blog
 
@@ -44,7 +44,7 @@ rss-show-full: false
 # Configuration, plugins, gems, etc..
 #------------------------------------------------------------------------------
 source: .
-destination: ./_site
+destination: ./blog/_site
 gems: ['jekyll-paginate']
 
 sass:
