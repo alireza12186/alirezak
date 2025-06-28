@@ -1,4 +1,4 @@
-Jiprofile-title: â˜¬ Monaliza
+IJiprofile-title: â˜¬ Monaliza
 #profile-update-interval: 1 
 #subscription-userinfo: upload=100; download=100; total=10000000000000; expire= 44462495316 #support-url: salam.tv #profile-web-page-url: salam.tv
 
@@ -50,3 +50,5 @@ vless://3e87ed26-6c31-41fa-a5de-b010377537b7@SvnTeam.fast.hosting-ip.com:80?path
 vless://3e87ed26-6c31-41fa-a5de-b010377537b7@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#%F0%9F%9F%A6%20%F0%93%8F%BA%20%F0%9D%97%A3%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A8%F0%9D%97%A0
 vless://9f3df566-6e6c-4e16-819b-53e9c7f19c60@s1.arwandping.top:8080?path=%2F&security=&encryption=none&type=ws#%40ArvandPing-azkeendv
 vless://0d9f8c31-cafe-4dda-9312-430fa6c5fbca@www.speedtest.net:80?security=&type=ws&path=/%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79?ed%3D2048&host= Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#@VPNTwitt👈بیا-تو-چنل
+
+vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?encryption=none&security=none&type=tcp&headerType=http#%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%3A%20%40iTzSupport%20%F0%9F%92%9B
